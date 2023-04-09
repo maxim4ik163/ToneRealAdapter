@@ -2,7 +2,7 @@
 ## RU
 Самодельный гитарный адаптер для игры в Rocksmith на базе CMedia CM6327A, которая имеет возможность конфигурации VID/PID через EEPROM, что позволяет использовать её как оригинальный кабель на PlayStation, Xbox и ПК.
 
-[Даташит](https://github.com/maxim4ik163/ToneRealAdapter/blob/main/Datasheets/CM6327A.pdf) на этот чип не содержит принципиальной схемы, поэтому пришлось воссоздовать её по [фотографиям](https://github.com/maxim4ik163/ToneRealAdapter/tree/main/Reference_PCB's) плат от различных USB-микрофонов на базе CM6327A (Blue snowball ice, Trust Buzz, Bird UM-1, DEXP BK-20 и т.д.).
+[Даташит](https://github.com/maxim4ik163/ToneRealAdapter/blob/main/Datasheets/CM6327A.pdf) на этот чип не содержит принципиальной схемы, поэтому пришлось воссоздавать её по [фотографиям](https://github.com/maxim4ik163/ToneRealAdapter/tree/main/Reference_PCB's) плат от различных USB-микрофонов на базе CM6327A (Blue snowball ice, Trust Buzz, Bird UM-1, DEXP BK-20 и т.д.).
 Для того чтобы быть уверенным в принципиальной схеме я купил DEXP BK-20 с типовой платой YFT261764 на базе CM6327A.
 
 Проект содержит 3 версии платы:

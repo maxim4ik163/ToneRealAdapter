@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ToneReal_Adapter_v1.0.PcbDoc   09.04.2023  14:20:51
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : ToneReal_Adapter_v1.0-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : ToneReal_Adapter_v1.0-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.4mm (16mil)                                             Round             31        PTH        212.31mm (8.36inch)
+T2      0.6mm (24mil)                                             Round             2         PTH        4.88mm (0.19inch)
+T3      0.711mm (28mil)                                           Round             5         PTH        46.82mm (1.84inch)
+T4      0.8mm (31mil)                                             Round             4         PTH        7.62mm (0.30inch)
+T5      0.8mm (31mil)                                             Slot              6         PTH        103.95mm (4.09inch)
+T6      0.9mm (35mil)                                             Round             4         PTH        7.29mm (0.29inch)
+T7      1mm (39mil)                                               Round             4         PTH        6.50mm (0.26inch)
+T8      2.1mm (83mil)                                             Round             2         PTH        11.70mm (0.46inch)
+T9      2.5mm (98mil)                                             Round             2         PTH        12.00mm (0.47inch)
+T10     3mm (118mil)                                              Round             4         PTH        28.50mm (1.12inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              64
+
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -1,0 +1,10 @@
+Output: BOM
+Type  : BOM
+From  : PCB Document [ToneReal_Adapter_v1.1.PcbDoc]
+   Generated File[BOM-ToneReal_Adapter_v1.1.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:19:51 On 09.04.2023

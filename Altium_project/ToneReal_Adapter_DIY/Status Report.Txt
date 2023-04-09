@@ -1,0 +1,10 @@
+Output: BOM
+Type  : BOM
+From  : PCB Document [ToneReal_Adapter_LUT.PcbDoc]
+   Generated File[BOM-ToneReal_Adapter_LUT.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:21:32 On 09.04.2023

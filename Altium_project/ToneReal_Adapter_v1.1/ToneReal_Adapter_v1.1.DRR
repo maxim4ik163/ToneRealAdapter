@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ToneReal_Adapter_v1.1.PcbDoc   09.04.2023  14:19:44
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : ToneReal_Adapter_v1.1-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : ToneReal_Adapter_v1.1-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.4mm (16mil)                                             Round             33        PTH        165.63mm (6.52inch)
+T2      0.8mm (31mil)                                             Round             4         PTH        7.62mm (0.30inch)
+T3      0.8mm (31mil)                                             Slot              6         PTH        103.95mm (4.09inch)
+T4      0.9mm (35mil)                                             Round             4         PTH        7.29mm (0.29inch)
+T5      1mm (39mil)                                               Round             4         PTH        6.50mm (0.26inch)
+T6      2.1mm (83mil)                                             Round             2         PTH        11.70mm (0.46inch)
+T7      2.5mm (98mil)                                             Round             2         PTH        12.00mm (0.47inch)
+T8      3mm (118mil)                                              Round             4         PTH        28.50mm (1.12inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              59
+
+Total Processing Time (hh:mm:ss) : 00:00:00

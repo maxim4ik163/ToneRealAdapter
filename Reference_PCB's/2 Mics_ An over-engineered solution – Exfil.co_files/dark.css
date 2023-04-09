@@ -1,0 +1,255 @@
+/*
+	A dark color scheme for Catch Base
+*/
+
+body,
+.rtl blockquote {
+    background-color: #111;
+}
+body,
+button,
+input,
+select,
+textarea,
+#nav-below .wp-pagenavi span.pages {
+	color: #aaa;
+}
+.site {
+	background-color: #222;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.8);
+}
+a,
+.catchbase-nav-menu .current-menu-item > a,
+.catchbase-nav-menu .current-menu-ancestor > a,
+.catchbase-nav-menu .current_page_item > a,
+.catchbase-nav-menu .current_page_ancestor > a,
+.sidebar-header-right .widget_nav_menu .current-menu-item > a,
+.sidebar-header-right .widget_nav_menu .current-menu-ancestor > a,
+.catchbase-nav-menu li a:hover,
+.catchbase-nav-menu li a:focus,
+.sidebar-header-right .widget_nav_menu li a:hover,
+.sidebar-header-right .widget_nav_menu li a:focus,
+.entry-title a:hover,
+#featured-content .entry-title a:hover {
+    color: #e4741f;
+}
+a:hover {
+	color: #ddd;
+}
+.catchbase-nav-menu .sub-menu li a:hover,
+.catchbase-nav-menu .sub-menu li a:focus,
+.catchbase-nav-menu .children li a:hover,
+.catchbase-nav-menu .children li a:focus,
+.sidebar-header-right .widget_nav_menu .sub-menu li a:hover,
+.sidebar-header-right .widget_nav_menu .sub-menu li a:focus,
+#search-toggle:hover {
+	color: #e4741f;
+}
+#site-title {
+    text-shadow: 2px 2px #000;
+}
+.site-title a:hover {
+	color: #e4741f;
+}
+#site-description {
+    color: #777;
+}
+#site-generator {
+    background-color: #000;
+}
+#footer-sidebar  {
+    color: #555;
+}
+#site-generator {
+    border-top: 1px solid #222;
+}
+input[type="text"],
+input[type="email"],
+textarea {
+	background-color: transparent;
+}
+#masthead,
+#homepage-message,
+#footer-sidebar,
+article .entry-format,
+pre {
+    background-color: #111;
+}
+input#s {
+    background-image: url("../images/dark-search.png");
+}
+.site-title a,
+.widget-title,
+#search-toggle,
+.entry-title,
+.entry-title a,
+#featured-content .entry-title a,
+.page-header .page-title,
+article.sticky .featured-sticky,
+input[type=text]:focus,
+input[type=email]:focus,
+textarea:focus,
+#homepage-message,
+#featured-post .entry-title,
+article.format-image .entry-title a,
+.post-format .entry-header .entry-title,
+#site-generator a,
+.catchbase-nav-menu a,
+.sidebar-header-right .widget_nav_menu a {
+	color: #ddd;
+}
+#header-menu,
+#secondary-menu,
+#footer-menu {
+    background-color: #000;
+}
+#header-menu ul.menu ul a,
+#secondary-menu ul.menu ul a,
+#footer-menu ul.menu ul a {
+	background-color: #000;
+	border-bottom: 1px dotted #444;
+}
+#header-menu ul.menu li:hover > a,
+#header-menu ul.menu a:focus,
+#secondary-menu ul.menu li:hover > a,
+#secondary-menu ul.menu a:focus,
+#footer-menu ul.menu li:hover > a,
+#footer-menu ul.menu a:focus,
+#colophon #access-footer ul.menu a:hover,
+#colophon #access-footer ul.menu a:focus {
+	background-color: #333;
+}
+#header-menu .menu .current-menu-item > a,
+#header-menu .menu .current-menu-ancestor > a,
+#header-menu .menu .current_page_item > a,
+#header-menu .menu .current_page_ancestor > a,
+#secondary-menu .menu .current-menu-item > a,
+#secondary-menu .menu .current-menu-ancestor > a,
+#secondary-menu .menu .current_page_item > a,
+#secondary-menu .menu .current_page_ancestor > a,
+#footer-menu .menu .current-menu-item > a,
+#footer-menu .menu .current-menu-ancestor > a,
+#footer-menu .menu .current_page_item > a,
+#footer-menu .menu .current_page_ancestor > a,
+#colophon .menu .current-menu-item a,
+hr {
+	background-color: #333;
+	color: #fff;
+}
+.nav-primary,
+.nav-footer,
+.catchbase-nav-menu .sub-menu a,
+.catchbase-nav-menu .children a,
+.sidebar-header-right .widget_nav_menu .sub-menu a {
+	background-color: #333;
+}
+#promotion-message,
+#featured-content,
+.nav-primary,
+.nav-footer,
+#featured-post,
+#featured-post #feature-heading,
+#secondary .widget,
+#colophon,
+.catchbase-nav-menu .sub-menu a,
+.catchbase-nav-menu .children a,
+.sidebar-header-right .widget_nav_menu .sub-menu a,
+.catchbase-nav-menu .sub-menu .sub-menu,
+.catchbase-nav-menu .children .children,
+.sidebar-header-right .widget_nav_menu .sub-menu .sub-menu,
+.blog #main .entry-container,
+.archive #main .entry-container,
+.archive-post-wrap,
+.page-header .page-title,
+#supplementary {
+    border-color: #444;
+}
+.header-sidebar .widget ul.menu a,
+#secondary-menu ul.menu a,
+#footer-menu ul.menu a {
+    color: #ddd;
+}
+#header-menu ul.menu ul a,
+#homepage-message,
+.site-content article,
+article.sticky .featured-sticky,
+input[type="text"],
+input[type="email"],
+textarea,
+#footer-sidebar,
+.wp-caption,
+.entry-content table,
+.comment-content table,
+.entry-content th,
+.comment-content th,
+.entry-content td,
+.comment-content td {
+    border-color: #333;
+}
+button,
+input[type="submit"],
+input[type="button"],
+input[type="reset"],
+article.post-password-required input[type=submit],
+li.bypostauthor cite span {
+	background: none #111;
+	border-color: #333;
+	color: #fff;
+	box-shadow: none;
+    padding: 10px;
+}
+button:hover,
+html input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+	background: none #333;
+	border-color: #000;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+th, h1, h2, h3 {
+    color: #ddd;
+}
+#search-container,
+.nav-primary .search-field {
+	background-color: #333;
+	border-color: #444;
+}
+.nav-primary .search-field {
+	color: #ddd;
+}
+.nav-primary .search-field:focus {
+	color: #fff;
+}
+.nav-secondary {
+    background-color: #111;
+}
+.nav-secondary .catchbase-nav-menu .sub-menu a {
+    background-color: #111;
+}
+
+.nav-secondary .catchbase-nav-menu .sub-menu a,
+.nav-secondary .catchbase-nav-menu .sub-menu .sub-menu,
+.nav-secondary .sidebar-header-right .widget_nav_menu .sub-menu .sub-menu {
+    border-color: #222;
+}
+
+#content #infinite-handle span button,
+#nav-below .wp-pagenavi a,
+#nav-below .wp-pagenavi span {
+    background-color: #444;
+}
+#content #infinite-handle span button,
+#nav-below .wp-pagenavi a,
+#nav-below .wp-pagenavi span,
+.page-links span {
+    color: #e4741f;
+}
+
+#content #infinite-handle span button:hover,
+#content #infinite-handle span button:focus,
+#nav-below .wp-pagenavi span.current {
+    background-color: #ddd;
+    color: #000;
+}

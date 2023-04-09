@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\RGA_project\Github\Altium_project\ToneReal_Adapter_v1.1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=tonereal_adapter_v1.1-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=tonereal_adapter_v1.1-slotholes-plated.txt|DrillLayers=gtl,gbl

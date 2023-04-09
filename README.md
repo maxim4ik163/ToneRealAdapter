@@ -2,7 +2,7 @@
 ## RU
 Самодельный гитарный адаптер для игры в Rocksmith на базе CMedia CM6327A, которая имеет возможность конфигурации VID/PID через EEPROM, что позволяет использовать её как оригинальный кабель на PlayStation, Xbox и ПК.
 
-Даташит на этот чип не содержит схемы подключения, поэтому пришлось воссоздовать её по [фотографиям](https://github.com/maxim4ik163/ToneRealAdapter/tree/main/Reference_PCB's) плат от различных USB-микрофонов на базе CM6327A (Blue snowball ice, Trust Buzz, Bird UM-1, DEXP BK-20 и т.д.).
+[Даташит](https://github.com/maxim4ik163/ToneRealAdapter/blob/main/Datasheets/CM6327A.pdf) на этот чип не содержит принципиальной схемы, поэтому пришлось воссоздовать её по [фотографиям](https://github.com/maxim4ik163/ToneRealAdapter/tree/main/Reference_PCB's) плат от различных USB-микрофонов на базе CM6327A (Blue snowball ice, Trust Buzz, Bird UM-1, DEXP BK-20 и т.д.).
 Для того чтобы быть уверенным в принципиальной схеме я купил DEXP BK-20 с типовой платой YFT261764 на базе CM6327A.
 
 Проект содержит 3 версии платы:
@@ -34,7 +34,7 @@
 ## En
 DIY Rocksmith guitar adapter based on CMedia CM6327A  USB Single-Chip Audio Solution for Mono Microphone. VID/PID/product and manufacture strings of this chip can be configured by EEPROM, that allows to use it as original cable on PlayStation, Xbox and PC.
 
-Datasheet for this chip doesn't contain schematics, so I used PCB from various USB-microphones based on CM6327A as [reference](https://github.com/maxim4ik163/ToneRealAdapter/tree/main/Reference_PCB's) (Blue snowball ice, Trust Buzz, Bird UM-1 DEXP BK-20 etc).
+[Datasheet](https://github.com/maxim4ik163/ToneRealAdapter/blob/main/Datasheets/CM6327A.pdf) for this chip doesn't contain schematics, so I used PCB from various USB-microphones based on CM6327A as [reference](https://github.com/maxim4ik163/ToneRealAdapter/tree/main/Reference_PCB's) (Blue snowball ice, Trust Buzz, Bird UM-1 DEXP BK-20 etc).
 To check my schematics made by photos of PCBs, i bought DEXP BK-20 with PCB YFT261764 and checked all the traces.
 
 Project contains 3 version of PCB:
@@ -60,5 +60,5 @@ Project contains 3 version of PCB:
 
 ### Disclaimer
 > I did not assemble this circuit board because during the development  I tested this concept on a board from a USB microphone. And because of the need for a long wait for chip from Aliexpress, production of PCB and PSN game discount I purchased the original cable with game :) 
-But this allowed me to compare them with each other: they are identical in sound and delays.
+But this allowed me to compare them with each other: they are identical in sound and delays. So I am 99.9% sure that the circuit is correct.
 

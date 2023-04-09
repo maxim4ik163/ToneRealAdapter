@@ -1,7 +1,7 @@
 # ToneReal Guitar Adapter
 DIY Rocksmith guitar adapter based on CMedia CM6327A  USB Single-Chip Audio Solution for Mono Microphone. VID/PID/product and manufacture strings of this chip can be configured by EEPROM, that allows to use it as original cable on PlayStation, Xbox and PC.
 
-Datasheet for this chip doesn't contain schematics, so I used PCB from various USB-microphones based on CM6327A as reference (Blue snowball ice, Trust Buzz, Bird UM-1 DEXP BK-20 etc).
+Datasheet for this chip doesn't contain schematics, so I used PCB from various USB-microphones based on CM6327A as [reference](https://github.com/maxim4ik163/ToneRealAdapter/tree/main/Reference_PCB's) (Blue snowball ice, Trust Buzz, Bird UM-1 DEXP BK-20 etc).
 To check my schematics made by photos of PCBs, i bought DEXP BK-20 with PCB YFT261764 and checked all the traces.
 
 Project contains 3 version of PCB:
